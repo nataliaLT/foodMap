@@ -1,0 +1,14 @@
+{
+  "name": "foodmap2.0",
+  "version": "0.0.1",
+  "description": "proyecto que busca locales de comida cerca de tu ubicacion ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "foodmap"
+  ],
+  "author": "Natalia Lucero",
+  "license": "ISC"
+}
